@@ -1,0 +1,35 @@
+body {
+  background-color: #0f4c5c;
+  padding: 50px 0;
+}
+
+.white-rectangle {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 80%;
+  max-width: 800px;
+  max-height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hero-section {
+  height: 80vh;
+}
+
+.text-content {
+  text-align: left;
+}
+
+.img-fluid {
+  max-width: 100%;
+}
+
+.image-container {
+  text-align: right;
+}

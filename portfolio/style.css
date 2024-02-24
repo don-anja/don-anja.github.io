@@ -49,3 +49,12 @@ body {
   background-color: #9e7690;
   border-color: #a8d5e2;
 }
+
+#languageSelector {
+  color: #9e7690;
+}
+
+#languageSelector:hover {
+  border-color: rgb(0, 173, 189);
+  color: rgb(0, 173, 189);
+}
